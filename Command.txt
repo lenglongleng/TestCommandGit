@@ -40,4 +40,4 @@ Git branch
 >git branch -d [branch-name]
 
 // Merge branch
-
+Merge ต้องเริ่มที่ master 
