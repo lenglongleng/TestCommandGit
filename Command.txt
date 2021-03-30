@@ -25,3 +25,16 @@ Clone repository จาก git hub มาครั้งแรก
 >git pull
 
 กรณีเกิด Conflic ให้ทำการแก้ไข File ให้ถูกต้องแล้วทำการ Commit ใหม่อีกครั้ง
+
+/////////////
+Git branch
+// List all branches
+>git branch
+// Create branch
+>git branch [branch-name]
+//Switch branch
+>git checkout [branch-name]
+//Create and Switch branch
+>git checkout -b [branch-name]
+//Delete branch
+>git branch -d [branch-name]
