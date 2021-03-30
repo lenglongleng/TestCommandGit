@@ -12,8 +12,13 @@ Remote ไปที่ repository
 >git remote add origin https://.../?.git
 Push file ไปที่ remote repository
 >git push -u origin master
+Push file กรณีที่ได้ add remote ไว้แล้ว
+>git push
 
 Check status ภายใต้ Git repo
 >git status
+
+Clone repository จาก git hub มาครั้งแรก
+>git clone https://.../?.git
+
 >git pull
->git clone
