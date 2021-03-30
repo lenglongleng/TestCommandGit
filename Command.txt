@@ -1,7 +1,19 @@
+Initial git
 >git init
+Add file to git local
 >git add [file]
+Add ทุก file ที่อยู่ภายใต้ folder นี้
+>git add .
+Commit และทำการกำหนด comment
+>git commit -m "Message"
+Commit และทำการกำหนด comment สำหรับ edit file เก่าโดยไม่ต้อง Add ก่อน
+>git commit -a -m "Message"
+Remote ไปที่ repository
+>git remote add origin https://.../?.git
+Push file ไปที่ remote repository
+>git push -u origin master
+
+Check status ภายใต้ Git repo
 >git status
->git commit
->git push
 >git pull
 >git clone
