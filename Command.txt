@@ -21,4 +21,7 @@ Check status ภายใต้ Git repo
 Clone repository จาก git hub มาครั้งแรก
 >git clone https://.../?.git
 
+ทำการ ดึง code ล่าสุดลงมา
 >git pull
+
+กรณีเกิด Conflic ให้ทำการแก้ไข File ให้ถูกต้องแล้วทำการ Commit ใหม่อีกครั้ง
