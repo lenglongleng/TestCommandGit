@@ -38,3 +38,6 @@ Git branch
 >git checkout -b [branch-name]
 //Delete branch
 >git branch -d [branch-name]
+
+// Merge branch
+
