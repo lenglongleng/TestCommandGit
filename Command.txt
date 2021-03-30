@@ -40,4 +40,5 @@ Git branch
 >git branch -d [branch-name]
 
 // Merge branch
-Merge ต้องเริ่มที่ master 
+Merge ต้องเริ่มที่ master แล้ว merge branch dev เข้ามารวม
+>git merge dev
